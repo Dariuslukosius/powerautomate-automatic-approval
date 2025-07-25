@@ -37,14 +37,14 @@ Projektas taip pat apima savaitinę suvestinę apie visus prašymus.
 ---
 ## 🖼️ Pavyzdžiai
 
-### 🧾 Prašymų lentelė
-![Request Table](Screenshot/Request%20table.png)
-
 ### 🔄 Pagrindinis srautas
-![Work Flow](Screenshot/Work%20flow.png)
+![Work Flow](Screenshot/work%20flow.png)
 
 ### ✅ Patvirtinimo žingsniai
 ![Work Flow 2](Screenshot/Work%20flow%202.png)
+
+### 🧾 Prašymų lentelė
+![Request Table](Screenshot/Request%20table.png)
 ---
 
 ## 💼 Naudojimo scenarijai
