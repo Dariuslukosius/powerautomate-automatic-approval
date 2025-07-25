@@ -35,18 +35,16 @@ Projektas taip pat apima savaitinę suvestinę apie visus prašymus.
   - `work-flow-2.png` – Patvirtinimo proceso detalė.
 
 ---
-
 ## 🖼️ Pavyzdžiai
 
 ### 🧾 Prašymų lentelė
-![Request Table](Screenshot/request-table.png)
+![Request Table](Screenshot/Request%20table.png)
 
 ### 🔄 Pagrindinis srautas
-![Work Flow](Screenshot/work-flow.png)
+![Work Flow](Screenshot/Work%20flow.png)
 
 ### ✅ Patvirtinimo žingsniai
-![Work Flow 2](Screenshot/work-flow-2.png)
-
+![Work Flow 2](Screenshot/Work%20flow%202.png)
 ---
 
 ## 💼 Naudojimo scenarijai
